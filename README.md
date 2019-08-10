@@ -14,4 +14,5 @@ OPEX is now calculated over the whole DCP once a month. Margin can be calculated
 4/26/2018
 Margin+OPEX+UI calcs for a given month done throughout the whole meter_coefficient table (performance: about 8 hours on a single CPU on Azure machine). File Margin-OPEX-UI_Jan2019.py
 
-
+8/10/2019 
+Performance_deconstructed - jupyter notebook for monthly deconstructed view calculations done route by route performance boosted.
