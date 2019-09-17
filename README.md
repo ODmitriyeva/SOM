@@ -16,3 +16,7 @@ Margin+OPEX+UI calcs for a given month done throughout the whole meter_coefficie
 
 8/10/2019 
 Performance_deconstructed - jupyter notebook for monthly deconstructed view calculations done route by route performance boosted (15 min single  CPU om Azure DS vm)
+
+9/17/2019
+Performance_deconstructed_write_to Snowflake_auto_v3_Matt.py 
+accepts date in current datetime Snowlake format, does partial table download based on this date, writes back to Snowflake staging area
